@@ -1,0 +1,3 @@
+2. Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao ?
+Theo em thì trong tương lai sẽ tiếp tục phát triển.
+Vì hiện nay đa số mỗi người ai cũng sẽ có ít nhất 1 chiếc điện thoại thông minh, mọi người sử dụng chúng bất kể đâu khi có thời gian rảnh. Và không phải ai cũng có 1 chiếc máy tính bất tiện về đi lại và chi phí để sở hữu 1 chiếc, thay vì đó mà mọi người sẽ ưu tiên sử dụng điện thoại thông minh để đi lại dễ dàng và sử dụng nó để làm được nhiều việc VD: thanh toán, CCCD, Bảo hiểm y tế,..
