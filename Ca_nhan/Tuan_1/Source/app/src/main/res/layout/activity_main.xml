@@ -10,17 +10,6 @@
     android:background="@android:color/white"
     tools:context=".MainActivity">
     <!-- Ảnh đại diện -->
-    <ImageView
-        android:id="@+id/imgAvatar"
-        android:layout_width="wrap_content"
-        android:layout_height="344dp"
-        android:layout_marginBottom="16dp"
-        android:background="@drawable/avatar"
-        android:backgroundTint="@android:color/darker_gray"
-        android:clipToOutline="true"
-        android:contentDescription="Avatar"
-        android:scaleType="centerCrop"
-        android:src="@drawable/avatar" />
     <!-- Text hiển thị tên -->
     <TextView
         android:id="@+id/tvName"
@@ -50,5 +39,17 @@
         android:textSize="18sp"
         android:padding="14dp"
         android:backgroundTint="@android:color/holo_blue_light" />
+
+    <ImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="wrap_content"
+        android:layout_height="344dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/avatar"
+        android:backgroundTint="@android:color/darker_gray"
+        android:clipToOutline="true"
+        android:contentDescription="Avatar"
+        android:scaleType="centerCrop"
+        android:src="@drawable/avatar" />
 
 </LinearLayout>
