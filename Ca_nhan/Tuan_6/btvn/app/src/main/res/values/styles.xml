@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Simple AppTheme that uses a Material 3 DayNight no-action-bar parent. -->
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can add app-specific theme customizations here -->
+    </style>
+</resources>

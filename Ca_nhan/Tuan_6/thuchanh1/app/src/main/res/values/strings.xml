@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">thuchanh1</string>
+    <!-- placeholder: replace with the web client ID from your Firebase console (OAuth 2.0 Client ID for Web) -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>

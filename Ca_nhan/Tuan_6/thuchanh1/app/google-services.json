@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889918234773",
+    "project_id": "loginemail-e8d19",
+    "storage_bucket": "loginemail-e8d19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889918234773:android:bd295fa995afbc75f77b9c",
+        "android_client_info": {
+          "package_name": "com.example.thuchanh1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6v-v3-UPyQFWi_dS7oRivzWOF9Rsi0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
